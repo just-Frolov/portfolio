@@ -371,6 +371,10 @@ body {
 }
 
 @media(max-width:600px) {
+    .welcomePage__img img {
+        width: 27vh;
+    }
+    
     .item__Title {
         font-size: 30px;
     }
